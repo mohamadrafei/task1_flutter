@@ -1,4 +1,15 @@
 # job_management_system
+## 🔐 Test Login Credentials (For Development Only)
+
+### Admin Web Panel
+- **Email:** `admin@test.com`
+- **Password:** `password123`
+
+### Technician Mobile App
+- **Email:** `tech1@test.com`
+- **Password:** `password123`
+
+> **Note:** All passwords are stored hashed using BCrypt in the database.
 
 A new Flutter project.
 
